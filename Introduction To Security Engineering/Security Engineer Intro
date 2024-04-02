@@ -1,3 +1,11 @@
-# What does a day in the life of a security engineer look like? [
+# Bookmarklet (50 points)
 
-![Link](https://tryhackme.com/r/room/securityengineerintro)
+when you open the url for this question, this page shows up
+
+![Bookmarklet question page](../statics/bookmarklet_01.png)
+
+for you to answer that question, just copy the code that shown to you and remove the `javascript:` from start of the code.
+
+after that, open **DevTools** By pressing `F12` and paste the code on the console and and execute it. the flag shown as the alert
+
+![Bookmarklet answer](../statics/bookmarklet_02.png)
