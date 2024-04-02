@@ -1,2 +1,2 @@
 # TryHackMe
-![link](https://tryhackme.com/r/room/securityengineerintro)
+[link](https://tryhackme.com/r/room/securityengineerintro)
